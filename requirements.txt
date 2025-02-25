@@ -1,0 +1,13 @@
+pandas==2.0.3
+numpy==2.2.3
+scikit-learn==1.2.2
+beautifulsoup4==4.12.2
+requests==2.31.0
+spacy==3.6.1
+textblob==0.16.3
+nltk==3.8.1
+yfinance==0.2.18
+networkx==3.1
+tensorflow-cpu==2.13.0
+torch==2.0.1
+transformers==4.28.1
